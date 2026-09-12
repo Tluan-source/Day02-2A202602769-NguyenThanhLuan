@@ -6,7 +6,7 @@
 
 - Họ và tên: Nguyễn Thành luân
 - Mã học viên: 2A202602769
-- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...):
+- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): Sinh viên năm 4
 - Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
 
 ---
@@ -20,7 +20,7 @@
 | 1 | lặp lại | Mỗi lần apply vào 1 công ty khác nhau (intern) thì phải gửi CV, JD, Cover Letter vào AI để chỉnh cho khớp và vượt qua vòng scan và phải review lại nhiều lần xem thông tin có khớp không | Bản thân + bạn cùng khoá đang apply | 20-30p/lần × ~10 job/tuần ≈ 3.5-5h/tuần; X/10 bản draft phải sửa vì AI bịa chi tiết |
 | 2 | Tốn thời gian | khi literature review phải kiểm tra paper nào liên quan, mới và dùng model gì, quan trọng nhất là có nguồn free để tham khảo | Bản thân + nhóm đồ án | khoảng 30-45p/lần |
 | 3 | AI có thể tốt hơn | Apply vào các job intern nhưng không nhớ là đã apply những job nào và cty nào chưa reply trong bao lâu để sắp xếp | bản thân  | apply 10 job trong 1 tuần |
-| 4 | tốn thời gian | Research roadmap sau mỗi lần chỉnh sửa lại phải đọc toàn bộ để xem scope, objective, model và deployment còn nhất quán không | bản thân - người làm research | làm 1 pro |
+| 4 | tốn thời gian | Research roadmap sau mỗi lần chỉnh sửa lại phải đọc toàn bộ để xem scope, objective, model và deployment còn nhất quán không | bản thân - người làm research | làm 1 project tốn khoảng 2-5 ngày cho roadmap |
 | 5 | Pain từ người khác | Các bạn trong nhóm discord hoặc trong buổi workshop thường hỏi lặp đi lặp lại 1 vấn đề và các anh chị lab coach hoặc mentor hoặc BTC phải trả lời nhiều lần | học viên (chưa nắm rõ tt) + lab coach, mentor, BTC phải trả lời nhiều lần | chat trong #hỏi-trợ-lý-kute và trong các phiên workshop trên zoom |
 | 6 | Lặp lại | mỗi lab phải clone repo templates sau đó dò README + worksheet xem cần nộp những gì, fields nào? | bản thân + các bạn cùng lớp | Lab Day02 có 3 file × ~40 field phải điền; mất 15-20 phút dò lại checklist mỗi lần nộp|
 | 7 | Lặp lại + pain từ ng khác | Học viên mới từ tỉnh lên phải lọc tin trọ rải rác ở nhiều group Facebook/Zalo, tin thiếu thông tin chuẩn nên phải nhắn hỏi từng chủ nhà rồi mới so sánh được, nhiều tin đã cho thuê hoặc là cò | Học viên mới nhập học ở xa (tôi đã từng) | mất 5-7 ngày từ lúc tìm đến lúc chốt, xem trên 10 tin, đi xem hụt 2, 3 lần vì tin ảo/đã thuê |
