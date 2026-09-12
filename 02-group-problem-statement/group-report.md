@@ -10,7 +10,7 @@
 | 2   | Phùng Gia Bảo     | 2A202602386 | facilitator, reviewer                                    |
 | 3   | Nguyễn Thành Luân | 2A202602769 | workflow, infographic                                    |
 | 4   | Nguyễn Công Thịnh | 2A202602781 | presentation, pitched idea                               |
-| 5   | Vũ Minh Thiện     | 2A202602692 | validation, writer                                       |
+| 5   | Vũ Minh Hiển     | 2A202602692 | validation, writer                                       |
 
 **Candidate problem nhóm chọn (1 câu):**
 Nhân viên mới gặp khó khăn trong việc tìm kiếm và ghi nhớ các quy định, thuật ngữ, quy trình và văn hoá công ty do thông tin nằm rải rác ở nhiều nguồn. Điều này khiến họ thường xuyên phải hỏi lại đồng nghiệp, làm gián đoạn công việc và tăng nguy cơ hiểu sai quy trình.
@@ -28,9 +28,9 @@ Nhân viên mới gặp khó khăn trong việc tìm kiếm và ghi nhớ các q
 | 4 | Nguyễn Công Thịnh | Intern phải hỏi Mentor những câu cơ bản vì chưa hiểu quy trình/thuật ngữ nội bộ | Intern, Mentor | 3–5 câu hỏi/ngày trong giai đoạn mới vào việc; Mentor bị ngắt quãng lặp lại | Pain rõ giữa hai vai, workflow ngắn, đo được |
 | 5 | Nguyễn Công Thịnh | Intern gửi câu hỏi/kết quả thiếu context khiến Mentor phải hỏi lại | Intern, Mentor | Khoảng 20–30% câu hỏi cần hỏi lại ít nhất 1 lần | Cùng cụm với #4, có thể gộp |
 | 6 | Nguyễn Công Thịnh | Nhận task chưa từng làm, không biết chia thành bước nhỏ nào nên thử-sai | Intern | Một task mới mất thêm 30–90 phút do thử-sai | Khó đo, phụ thuộc năng lực từng người |
-| 7 | Vũ Minh Thiện | Đọc JD và tự đối chiếu yêu cầu với kỹ năng/CV để quyết định có phù hợp | Người đang tìm việc | Nhiều yêu cầu phải đối chiếu thủ công, lặp với gần như mọi JD | Lặp lại rõ, AI hỗ trợ được phần phân tích khoảng cách kỹ năng |
-| 8 | Vũ Minh Thiện | Nhiều tin tuyển dụng nhưng khó xác định tin nào nên ưu tiên nộp trước | Người đang tìm việc | Phải tự cân nhắc nhiều tiêu chí, dễ mất thời gian vào JD ít phù hợp | Cần biết người tìm việc thực sự ưu tiên tiêu chí nào |
-| 9 | Vũ Minh Thiện | Chỉnh CV/portfolio cho phù hợp từng vị trí tuyển dụng | Người đang tìm việc | Lặp lại mỗi lần ứng tuyển, tốn thời gian | Trùng hướng với #13 |
+| 7 | Vũ Minh Hiển | Đọc JD và tự đối chiếu yêu cầu với kỹ năng/CV để quyết định có phù hợp | Người đang tìm việc | Nhiều yêu cầu phải đối chiếu thủ công, lặp với gần như mọi JD | Lặp lại rõ, AI hỗ trợ được phần phân tích khoảng cách kỹ năng |
+| 8 | Vũ Minh Hiển | Nhiều tin tuyển dụng nhưng khó xác định tin nào nên ưu tiên nộp trước | Người đang tìm việc | Phải tự cân nhắc nhiều tiêu chí, dễ mất thời gian vào JD ít phù hợp | Cần biết người tìm việc thực sự ưu tiên tiêu chí nào |
+| 9 | Vũ Minh Hiển | Chỉnh CV/portfolio cho phù hợp từng vị trí tuyển dụng | Người đang tìm việc | Lặp lại mỗi lần ứng tuyển, tốn thời gian | Trùng hướng với #13 |
 | 10 | Phùng Gia Bảo | Daily pipeline monitoring | Data Engineer | Kiểm tra nhiều pipeline, status và data mỗi ngày | Xảy ra thường xuyên, impact rõ, nhưng có thể giải bằng Rule/monitoring |
 | 11 | Phùng Gia Bảo | Pipeline báo SUCCESS nhưng data không đầy đủ | Data Engineer, Data Analyst | Pipeline SUCCESS nhưng DE vẫn phải tự kiểm tra data có đủ và đúng không | Pain về Data Quality rất rõ, đáng đào sâu |
 | 12 | Phùng Gia Bảo | Điều tra và xử lý incident thủ công | Data Engineer | Đọc logs, kiểm tra API response, tự tìm root cause | Bottleneck rõ, AI hỗ trợ tốt ở bước diagnosis |
@@ -406,7 +406,7 @@ theo một prompt cố định bắt trích nguồn cho mọi câu trả lời v
 xác nhận" khi không đủ dẫn chứng.
 Đo đúng 3 số: (1) thời gian từ nhận task đến bắt đầu thực hiện; (2) số câu hỏi cơ bản
 gửi mentor mỗi ngày; (3) số lần AI bị bắt lỗi trích sai hoặc nói không có trong tài liệu.
-Nếu bán thủ công đã không cải thiện thì tự động hoá cũng sẽ không.
+Nếu bán thủ công đã không cải Hiển thì tự động hoá cũng sẽ không.
 ```
 
 **Nếu Not Yet — cần validate gì trước:**
